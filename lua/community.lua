@@ -35,4 +35,7 @@ return {
   -- editing-support
   { import = "astrocommunity.editing-support.auto-save-nvim" },
   { import = "astrocommunity.editing-support.vim-move" },
+
+  -- testing
+  { import = "astrocommunity.test.neotest" },
 }
