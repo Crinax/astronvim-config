@@ -38,4 +38,7 @@ return {
 
   -- testing
   { import = "astrocommunity.test.neotest" },
+
+  -- lsp
+  { import = "astrocommunity.lsp.lsp-signature-nvim" },
 }
